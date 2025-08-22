@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:3000";
+//const API_URL = "http://localhost:3333";
+const API_URL = "https://empre-equip-didatico-aula-82yp.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#usuariosTable tbody");
